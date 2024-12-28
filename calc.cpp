@@ -121,9 +121,6 @@ double input_func(const std::string& input) {
     }
 
     if (!number.empty()) {
-        if (isNumberTooLarge(number)) {
-            throw std::invalid_argument("число слишком большое");
-        }
         if(number.size()>=10) {
             throw std::invalid_argument("число слишком большое или слишком маленькое");
         }
