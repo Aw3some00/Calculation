@@ -103,7 +103,7 @@ double input_func(const std::string& input) {
         } else if (ch == '+' || ch == '-' || ch == '*' || ch == '/') {
             if (!number.empty()) {
                 if (isNumberTooLarge(number)) {
-                    throw std::invalid_argument("число слишком большое");
+                    throw std::invalid_argument("некоректный ввод");
                 }
                 numbers.push_back(number);
                 number.clear();
