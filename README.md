@@ -135,10 +135,10 @@ To use the Chain Reaction Simulator, you need to have **Cmake** installed on you
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Aw3some00/Calculation.git
 2. Navigate into the project folder:
    ```bash 
-   cd your-repository
+   cd Calculation
 3. Create and navigate to the build folder
    ```bash 
    mkdir build && cd build
