@@ -1,4 +1,0 @@
-/Users/rashidovfuad/Desktop/exception_calc/cmake-build-debug/CMakeFiles/tests.dir
-/Users/rashidovfuad/Desktop/exception_calc/cmake-build-debug/CMakeFiles/main.dir
-/Users/rashidovfuad/Desktop/exception_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rashidovfuad/Desktop/exception_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
