@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="exception_calc" targetName="tests" />
+      <config projectName="exception_calc" targetName="main" />
+      <config projectName="exception_calc" targetName="exception_calc" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f93fefd0-447b-4365-a715-42391cf41175" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/calc.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doctest.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pyg9qBNFSqljQB4BlCDxlCgf3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.exception_calc.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Doctest.Tes.executor&quot;: &quot;Run&quot;,
+    &quot;Doctest.Testing valid calculations.executor&quot;: &quot;Run&quot;,
+    &quot;Doctest.tests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rashidovfuad/Desktop/exception_calc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake Application.exception_calc">
+    <configuration name="Tes" type="CMakeDoctestTestRunConfigurationType" factoryName="doctest Test" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exception_calc" TARGET_NAME="tests" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exception_calc" RUN_TARGET_NAME="tests" TEST_CLASS="calc" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exception_calc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exception_calc" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exception_calc" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Doctest.Tes" />
+      <item itemvalue="CMake Application.exception_calc" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Doctest.Tes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f93fefd0-447b-4365-a715-42391cf41175" name="Changes" comment="" />
+      <created>1733743580347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733743580347</updated>
+      <workItem from="1733743581819" duration="7066000" />
+      <workItem from="1733775110760" duration="1446000" />
+      <workItem from="1733814095164" duration="71000" />
+      <workItem from="1733814212960" duration="81000" />
+      <workItem from="1733814307954" duration="107000" />
+      <workItem from="1733814422797" duration="19000" />
+      <workItem from="1733814447574" duration="145000" />
+      <workItem from="1733814601720" duration="36000" />
+      <workItem from="1733814642608" duration="51000" />
+      <workItem from="1733814703148" duration="37000" />
+      <workItem from="1733814761541" duration="442000" />
+      <workItem from="1733815212070" duration="79000" />
+      <workItem from="1733815297230" duration="522000" />
+      <workItem from="1733815831809" duration="48000" />
+      <workItem from="1733815907466" duration="531000" />
+      <workItem from="1733816469837" duration="564000" />
+      <workItem from="1733817040505" duration="675000" />
+      <workItem from="1733929056378" duration="16000" />
+      <workItem from="1734164878948" duration="16000" />
+      <workItem from="1734165200917" duration="266000" />
+      <workItem from="1734165522334" duration="502000" />
+      <workItem from="1734166093188" duration="484000" />
+      <workItem from="1734166590249" duration="2981000" />
+      <workItem from="1734180855262" duration="20000" />
+      <workItem from="1734180886979" duration="646000" />
+      <workItem from="1734181690664" duration="11000" />
+      <workItem from="1734181749062" duration="5000" />
+      <workItem from="1734181761010" duration="4000" />
+      <workItem from="1734181821390" duration="21000" />
+      <workItem from="1734182009118" duration="7000" />
+      <workItem from="1734182052921" duration="8000" />
+      <workItem from="1734182313606" duration="33000" />
+      <workItem from="1734182369752" duration="32000" />
+      <workItem from="1734620908264" duration="155000" />
+      <workItem from="1734622007050" duration="140000" />
+      <workItem from="1734622154000" duration="60000" />
+      <workItem from="1734624219327" duration="32000" />
+      <workItem from="1734624393880" duration="178000" />
+      <workItem from="1734635980426" duration="7000" />
+      <workItem from="1734636003329" duration="4000" />
+      <workItem from="1734637734210" duration="9000" />
+      <workItem from="1734698421132" duration="103000" />
+      <workItem from="1734698670246" duration="5000" />
+      <workItem from="1734725706025" duration="1146000" />
+      <workItem from="1734726866396" duration="16000" />
+      <workItem from="1734726892216" duration="1672000" />
+      <workItem from="1734775927523" duration="152000" />
+      <workItem from="1734777923921" duration="4000" />
+      <workItem from="1735166938287" duration="41000" />
+      <workItem from="1735189542930" duration="37000" />
+      <workItem from="1735195249115" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
