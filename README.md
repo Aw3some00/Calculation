@@ -121,7 +121,7 @@ Follow these simple steps to get the calculator up and running on your machine:
 
 3. **Compile the Program:**
     ```bash
-   g++ -o main.cpp calc.cpp
+   g++ -o calculator main.cpp calc.cpp
 4. **Run the Calculator:**
     ```bash 
     ./calculator
