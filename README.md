@@ -121,12 +121,41 @@ Follow these simple steps to get the calculator up and running on your machine:
 
 3. **Compile the Program:**
     ```bash
-   g++ -o calculator main.cpp
+   g++ -o main.cpp calc.cpp
 4. **Run the Calculator:**
     ```bash 
     ./calculator
    
 ---
+
+## 🛠️ Installation on Cmake compiler
+
+To use the Chain Reaction Simulator, you need to have **Cmake** installed on your machine. Follow these steps to run the program:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Aw3some00/Bomb_explosion.git
+2. Navigate into the project folder:
+   ```bash 
+   cd Bomb_explosion
+3. Create and navigate to the build folder
+   ```bash 
+   mkdir build && cd build
+4. Run CMake to configure and build:   
+    ```bash 
+   cmake ..
+    cmake --build .
+5. Run the project: After the build is complete, run the project:
+   ```bash 
+   ./main
+
+---
+
+
+
+
+
 ## 🤝 Contributing
 
 We welcome contributions! To contribute to the project:
